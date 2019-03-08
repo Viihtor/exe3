@@ -1,0 +1,11 @@
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\bin\Debug\netcoreapp2.0\Filmes.deps.json
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\bin\Debug\netcoreapp2.0\Filmes.runtimeconfig.json
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\bin\Debug\netcoreapp2.0\Filmes.runtimeconfig.dev.json
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\bin\Debug\netcoreapp2.0\Filmes.dll
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\bin\Debug\netcoreapp2.0\Filmes.pdb
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\obj\Debug\netcoreapp2.0\Filmes.csprojAssemblyReference.cache
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\obj\Debug\netcoreapp2.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\obj\Debug\netcoreapp2.0\Filmes.AssemblyInfoInputs.cache
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\obj\Debug\netcoreapp2.0\Filmes.AssemblyInfo.cs
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\obj\Debug\netcoreapp2.0\Filmes.dll
+C:\Users\joaovizu\Documents\c#\Filmes\Filmes\obj\Debug\netcoreapp2.0\Filmes.pdb

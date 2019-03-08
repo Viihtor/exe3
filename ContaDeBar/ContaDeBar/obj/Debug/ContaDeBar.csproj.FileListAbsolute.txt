@@ -1,0 +1,15 @@
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\bin\Debug\ContaDeBar.exe.config
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\bin\Debug\ContaDeBar.exe
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\bin\Debug\ContaDeBar.pdb
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.csprojAssemblyReference.cache
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\MainWindow.g.cs
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\App.g.cs
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar_MarkupCompile.cache
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar_MarkupCompile.lref
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\MainWindow.baml
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.g.resources
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.Properties.Resources.resources
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.csproj.GenerateResource.cache
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.csproj.CoreCompileInputs.cache
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.exe
+C:\Users\joaovizu\Documents\c#\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.pdb
